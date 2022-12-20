@@ -14,3 +14,6 @@ Ex:
 ![image](https://user-images.githubusercontent.com/91806527/208786043-98707e74-692c-4175-92d4-3ef7b71649a2.png)
 
 ![image](https://user-images.githubusercontent.com/91806527/208786217-4debb57d-d322-4240-be4e-5b6de71faa54.png)
+
+Defualt config
+![image](https://user-images.githubusercontent.com/91806527/208786575-04f58feb-a660-4410-abb9-e07a56743af2.png)
