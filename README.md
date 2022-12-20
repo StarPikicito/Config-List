@@ -5,7 +5,7 @@ Discord Server https://discord.gg/cVWJrwKeej
 
 To be added post in the "Config-Sharing" channel or just dm me on Kagg#7456 or xuqin#1175
 
-Free users
+# Free users
 Download config> Put it in your executors workspace> name it "plsdonatesettings"
 
 Ex:
