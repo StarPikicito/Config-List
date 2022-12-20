@@ -17,3 +17,15 @@ Ex:
 
 Defualt config
 ![image](https://user-images.githubusercontent.com/91806527/208786575-04f58feb-a660-4410-abb9-e07a56743af2.png)
+
+
+# Exploits Compatible with Capysploit
+
+https://x.synapse.to - **Paid**
+
+https://fluxteam.net/ - **Free**
+
+https://krnl.place - **Free** 
+
+(Possibly)
+https://script-ware.com - **Paid**
