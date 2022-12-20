@@ -29,3 +29,9 @@ https://krnl.place - **Free**
 
 (Possibly)
 https://script-ware.com - **Paid**
+
+# Misc
+
+**RECOMMEND**
+
+https://github.com/tzechco/pls-donate-utils
