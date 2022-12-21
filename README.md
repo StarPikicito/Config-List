@@ -61,3 +61,11 @@ Example
 **RECOMMEND**
 
 https://github.com/tzechco/pls-donate-utils
+
+
+# 💀
+
+Ipig copied my shit!!!!
+
+![image](https://user-images.githubusercontent.com/91806527/209003413-5f25142b-bb61-49c3-a573-3570bb856734.png)
+![image](https://user-images.githubusercontent.com/91806527/209003691-e02a0b4a-d4ab-48b8-ab77-6eb8ba704c1d.png)
