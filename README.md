@@ -30,7 +30,7 @@ https://krnl.place - **Free**
 (Possibly)
 https://script-ware.com - **Paid**
 
-# Haid for individuals having trouble getting a key
+# aid for individuals having trouble getting a key
 
 ![image](https://user-images.githubusercontent.com/91806527/208790157-617bc3b6-fa3b-449f-b3cd-b3c09b14e473.png)
  
