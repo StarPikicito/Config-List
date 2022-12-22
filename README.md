@@ -1,12 +1,12 @@
 # Config-List
-Config known to the public for Capysploit Pls donate
+CPublicly available Capysploit configuration, please donate
 
-Discord Server https://discord.gg/cVWJrwKeej
+Server for Discord: https://discord.gg/cVWJrwKeej
 
-To be added post in the "Config-Sharing" channel or just dm me on Kagg#7456 or xuqin#1175
+Post in the "Config-Sharing" channel to be added, or simply dm me at Kagg#7456 or xuqin#1175.
 
 # Free users
-Download config> Put it in your executors workspace> name it "plsdonatesettings"
+config> download Name it "plsdonatesettings" and place it in the workspace of your executor.
 
 Ex:
 ![image](https://user-images.githubusercontent.com/91806527/208785905-4fc163a7-03b9-40bd-9a90-10e38eac03cc.png)
@@ -30,15 +30,15 @@ https://krnl.place - **Free**
 (Possibly)
 https://script-ware.com - **Paid**
 
-# Help for those struggling getting key
+# Haid for individuals having trouble getting a key
 
 ![image](https://user-images.githubusercontent.com/91806527/208790157-617bc3b6-fa3b-449f-b3cd-b3c09b14e473.png)
  
  ![image](https://user-images.githubusercontent.com/91806527/208790265-0ef91dcf-77fe-4fa3-b45f-db4522c68f48.png)
-Click the blue text **Don't worry its safe**
+Toggle the blue text.**Don't worry, it's safe**
 
 ![image](https://user-images.githubusercontent.com/91806527/208790430-2c824041-b609-4488-9ab4-bdc92d3a13d7.png)
-Do the steps **Dont Download anything until you get to the last step**
+Follow the instructions, but wait to download anything until you reach the final one.
 
 Download the download manager
 
@@ -46,14 +46,17 @@ Download the download manager
 
 
 ![image](https://user-images.githubusercontent.com/91806527/208791100-ad162c73-5c6d-448b-b554-4aea957a7542.png)
-When you get a add hit "Skip all"
+Select "Skip all" to skip all of the ads.
 
 ![image](https://user-images.githubusercontent.com/91806527/208791242-38b59d43-0a7b-4bb0-b7ee-2d1983c0940a.png)
-Hit "Open" and you set
+Press "Open" to get started.
 
-After that go to any talking channel and do
+Go to any discussion channel thereafter and do
+
 !Verify <Key>
+
 Example
+
 !verify vhfgjdj2kjgJVFKGD343bvAjHb5HSmn7NVfgkHVYAHVBBCGOD93aXig69leX
         **Fake Key Btw**
 # Misc
